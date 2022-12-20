@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+table{
+    border-collapse: collapse;
+    width: 700px;
+    margin: 10px 10px;
+}
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+th{
+    background-color: brown;
+    color: bisque;
+}
+td{
+    background-color: blanchedalmond;
+    font-size: 18px;
+}
